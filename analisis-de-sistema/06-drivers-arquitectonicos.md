@@ -9,6 +9,7 @@
 | DA05 | Utilizar una API REST entre frontend y backend. | RC03 - API REST | Limita las alternativas de comunicación entre las partes del sistema. |
 | DA06 | Integrarse con el ERP, envío y facturación. | RC05, RC06, RC07 | Exige una capa clara de integración con sistemas externos. |
 | DA07 | Facilitar cambios sin afectar otros módulos. | AC05 - Mantenibilidad | Justifica la separación por capas y módulos. |
+| DA08 | El sistema debe permitir modificar funcionalidades sin afectar innecesariamente otros módulos. | AC05 - Mantenibilidad | Influye en la separación de responsabilidades, modularidad y dependencias internas. |
 
 ## Evaluación de candidatos
 | Fuente | Elemento | ¿Driver? |
